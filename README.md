@@ -28,7 +28,9 @@
 - 🚗 [Car Insurance](https://insurspy.co.nz/car-insurance)  
 - 🏠 [Home Insurance](https://insurspy.co.nz/home-insurance)  
 - ❤️ [Life Insurance](https://insurspy.co.nz/life-insurance)  
-- 🏥 [Health Insurance](https://insurspy.co.nz/health-insurance)  
+- 🏥 [Health Insurance](https://insurspy.co.nz/health-insurance)
+- 💳 [Credit Cards](https://insurspy.co.nz/credit-card/Best-Balance-Transfer-Credit-Cards)  
+
 
 ---
 
